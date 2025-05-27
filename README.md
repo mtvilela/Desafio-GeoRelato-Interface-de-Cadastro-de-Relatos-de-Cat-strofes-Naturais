@@ -25,7 +25,7 @@ Um programa em C para registrar e gerenciar ocorrências de catástrofes naturai
 3. **Compilar e executar**
    - Botão Build (engrenagem amarela)
    - Botão Run (triângulo verde)
-
+ # MENU DO USUÁRIO
  - [1] Cadastrar novo relato
  - [2] Listar todos
  - [3] Buscar por tipo

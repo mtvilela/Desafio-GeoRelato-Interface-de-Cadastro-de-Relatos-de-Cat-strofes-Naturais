@@ -26,14 +26,14 @@ Um programa em C para registrar e gerenciar ocorrências de catástrofes naturai
    - Botão Build (engrenagem amarela)
    - Botão Run (triângulo verde)
 
-[1] Cadastrar novo relato
-[2] Listar todos
-[3] Buscar por tipo
-[4] Buscar por data
-[5] Buscar por localização
-[6] Sair
+ - [1] Cadastrar novo relato
+ - [2] Listar todos
+ - [3] Buscar por tipo
+ - [4] Buscar por data
+ - [5] Buscar por localização
+ - [6] Sair
 # EXEMPLO DE CADASTRADO
-Nome: João Silva
-Documento: 123.456.789-00
-Tipo: enchente
-Local: -23.5489 -46.6388
+ - Nome: João Silva
+ - Documento: 123.456.789-00
+ - Tipo: enchente
+ - Local: -23.5489 -46.6388

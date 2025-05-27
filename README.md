@@ -1,0 +1,1 @@
+# Desafio-GeoRelato-Interface-de-Cadastro-de-Relatos-de-Cat-strofes-Naturais

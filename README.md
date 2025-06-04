@@ -37,3 +37,8 @@ Um programa em C para registrar e gerenciar ocorrências de catástrofes naturai
  - Documento: 123.456.789-00
  - Tipo: enchente
  - Local: -23.5489 -46.6388
+
+
+##Integrantes
+-Matheus Vilela Silveira RM 564989
+-Maria Eduarda de Aquila Amaral RM 563783
